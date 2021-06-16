@@ -1,0 +1,44 @@
+{
+  "id": "2608693",
+  "name": "MI2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "435978",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "592805",
+      "name": "15",
+      "font_class": "15",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "759579",
+      "name": "7",
+      "font_class": "7",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "2742669",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "15838618",
+      "name": "top-filling",
+      "font_class": "top-filling",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    }
+  ]
+}
